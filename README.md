@@ -5,7 +5,7 @@ An AI-powered web application for predicting stock prices using machine learning
 > Installations:
 * streamlit
 * fbprophet
-* yfinance
+* yfinance 
 * plotly
 
 # Features
