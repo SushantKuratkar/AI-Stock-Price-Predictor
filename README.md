@@ -11,7 +11,7 @@ An AI-powered web application for predicting stock prices using machine learning
 # Features
 * Stock price prediction for multiple companies <br>
 * Interactive selection of stock and prediction period <br>
-* Display of raw data and forecasted data <br>
+* Display of raw data and forecasted data <br> 
 * Visualization of stock price trends <br>
 
 # Technologies Used
