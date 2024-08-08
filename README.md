@@ -3,7 +3,7 @@
 An AI-powered web application for predicting stock prices using machine learning algorithms. The app forecasts stock prices for selected companies, providing insights into future trends.
 
 > Installations:
-* streamlit
+* streamlit 
 * fbprophet
 * yfinance 
 * plotly
